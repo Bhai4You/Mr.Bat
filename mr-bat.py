@@ -1,32 +1,5 @@
 
 
-#	 Mr.Bat 
-#<----------------×----------------->
-#Flooding Bat On Web!!!! (Termux)
-#
-#
-# Name     : Mr.Bat
-# Coder     : Sutariya Parixit
-# Code       : Python
-# S.code    : 8h4i
-#
-# Copyright © 2017 by 8h4i
-#
-#
-#<=====[ WARNING ]=====>
-#
-#  DO NOT COPY OR MODIFY THIS SCRIPT WITHOUT PERMISSION AFTER THAT I AM NOT RESPONSIBLE FOR ANY TYPE OF DAMAGE!!!
-# 
-#<=====[ WARNING ]=====>
-#
-#
-# Hacking is a Crime!!! This Tool Only Use For Educational Perpose Don't Work Any illegal Activities Using Mr.Bat...
-#
-#
-# Enjoy Flow Of Bat on Web or IP!!!!
-
-
-
 
 import socket
 import random
